@@ -1,5 +1,3 @@
-# AuctionContractSolidity
-
 # Auction Smart Contract (Contrato Inteligente de Subasta)
 
 Este repositorio contiene el código fuente de un contrato inteligente de subasta descentralizada desplegado en la red de prueba Sepolia.
@@ -17,7 +15,7 @@ El contrato `Auction` permite a los usuarios participar en una subasta de un art
 ## Despliegue y Verificación
 
 El contrato ha sido desplegado y verificado en la red de prueba Sepolia.
-Puedes encontrar el contrato verificado aquí: [**[PEGAR AQUÍ LA URL DE ETHERSCAN DE TU CONTRATO VERIFICADO]**](https://sepolia.etherscan.io/address/0x6893404c5995e28c85177fc5af6c956bd8fc3389#code)
+Puedes encontrar el contrato verificado aquí: [https://sepolia.etherscan.io/address/0x6893404c5995e28c85177fc5af6c956bd8fc3389#code]
 
 **Dirección del Contrato en Sepolia:** `0x6893404c5995e28c85177fc5af6c956bd8fc3389`
 
